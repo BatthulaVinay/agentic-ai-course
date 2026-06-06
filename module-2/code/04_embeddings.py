@@ -34,5 +34,6 @@ O/p
 [-0.12, 0.45, 0.89, ...]
 Uses: Semantic Search ,RAG,Agent memory,recommendation systems,document
 retrieval etc.
-
+Learn about sentence transformers here 👇
+link : https://www.geeksforgeeks.org/nlp/sentence-transformer/
 """
