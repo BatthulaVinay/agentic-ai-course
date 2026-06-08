@@ -207,7 +207,7 @@ We prefer:
 
 ### Pydantic Models
 
-Used in production systems.
+Used in production systems.Pydantic is a Python data validation library used to define structured schemas using classes. It ensures that data follows expected types and formats. In Agentic AI, Pydantic is commonly used for structured outputs, tool inputs, API requests, API responses, and agent communication. It improves reliability by validating data before it is processed.
 
 ---
 
