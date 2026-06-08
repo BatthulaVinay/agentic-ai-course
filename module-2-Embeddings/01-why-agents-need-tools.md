@@ -23,7 +23,7 @@ This process is called Tool Selection.
 User:
 
 ```text
-What is 25 × 50?
+What is 25 × 50 ?
 ```
 
 Agent:
