@@ -159,7 +159,7 @@ Stores:
 
 This enables long-term project assistance.
 
-![Memory Types](module-5-Memory/image.png)
+![Memory Types](../image.png)
 ---
 
 # Types of Memory
