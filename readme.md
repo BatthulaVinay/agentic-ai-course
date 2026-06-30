@@ -16,7 +16,7 @@ The goal of this course is not only to use existing frameworks but also to under
 ### Module 2:
        *Tool selection
        *Tokenisation and embeddings
-    *Includes sample codes
+       *Includes sample codes
 ---
 
 #
